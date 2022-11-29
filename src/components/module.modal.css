@@ -1,0 +1,54 @@
+.overlay {
+    width: 20%;
+    height: 50vh;
+    background-color:#1C3144;
+    position: fixed;
+    z-index: 1;
+    top:20%;
+    left: 40%;
+    color: white;
+}
+
+.overlay h2{
+    margin-top: 5%; 
+    margin-bottom: 13%; 
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.overlay input {
+    height:3vh;
+    width: 80%;
+    margin-bottom: 3%;
+}
+
+.overlay label {
+    margin-left: 5%;
+}
+
+.overlay input {
+    margin-left: 5%;
+}
+
+.btn {
+    margin-left: 5%;
+    height: 4vh;
+    width: 38.6%;
+    border: none;
+    border-radius: 4px;
+    margin-top: 5%;
+}
+
+.btnDiscard{
+    background-color: #EC4E20;
+}
+
+.btnSave{
+    background-color: #04E762;
+}
+
+.close {
+    position: relative;
+    bottom: 18%;
+    left: 96%;
+}

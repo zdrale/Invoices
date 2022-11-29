@@ -1,0 +1,17 @@
+.icon {
+    width: 3%;
+    height: 3%; 
+    position: relative;
+    bottom: 400px;
+    right: -850px;
+    margin-right: 1%;
+    cursor: pointer;
+}
+
+  
+.icon:hover,
+.icon:active {
+    transform: translateY(-10%);
+}
+
+

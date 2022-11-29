@@ -1,0 +1,9 @@
+.sidebar {
+    height: 30vh;
+    width: 8%;
+    background-color: #242038;
+    color: #F7ECE1;
+    margin-top: 10%;
+    padding-top: 3%;
+    border-radius: 10px;
+}

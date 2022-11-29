@@ -1,0 +1,18 @@
+.table {
+    position: relative;
+    bottom: 380px;
+    left: 350px;
+    width: 60%;
+    color: white;
+}
+
+.table, th, td {
+    border: 2px #9067C6 solid;
+    padding: 2.5%;
+    background-color: #242038;
+}
+
+.table, td {
+    padding: 2.5%;
+    background-color: #8D86C9;
+}
